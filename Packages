@@ -1,9 +1,9 @@
-Package: com.ilekxxx.any50
+Package: com.ilekxxx.any5.0.0
 Version: 5.0.0
 Architecture: iphoneos-arm
 Maintainer: ilekxxx <arcostter@gmail.com>
 Depends: <bundleids>
-Filename: /any 5.0.0.deb
+Filename: /any5.0.0.deb
 Size: 30870080
 MD5sum: 488a9595ac072c7c2546523ee0fe32fd
 SHA1: a8bdbcabc7005c5878b1266403a0b46024afb453
@@ -11,4 +11,4 @@ SHA256: e88a94e1f1d1b46eca46ea2730db59d321ff1614acd6c0a486337cff8e154070
 Section: vlka ritna lukna
 Description: samo to rabim ded
 Author: ilekx <arcostter@gmail.com>
-Name: any 50
+Name: Any 5.0.0
