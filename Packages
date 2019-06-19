@@ -2,7 +2,7 @@ Package: com.ilekxxx.any5.0.0
 Version: 5.0.0
 Architecture: iphoneos-arm
 Maintainer: ilekxxx <arcostter@gmail.com>
-Depends: <bundleids>
+Depends: AlwaysGreen
 Filename: /any5.0.0.deb
 Size: 30870080
 MD5sum: 488a9595ac072c7c2546523ee0fe32fd
